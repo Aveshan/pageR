@@ -1,0 +1,1 @@
+<center><h2 style='color:red; font-size: 25px; margin-top:5%; margin-bottom:5%;'>Error! 404 Page Cannot Found</h2><a href='<?php echo URL;?>/admin/'>Go Back</a></center>
