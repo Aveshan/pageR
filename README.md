@@ -42,9 +42,9 @@ RewriteCond %{REQUEST_FILENAME} !-l
 RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
 "(without quotes).
 
-## #Support Us
----------------------------
+## Contribute
 
+Please commit only in *development* branch. The *master* branch will always contain the stable version.
 Use it, And keep me posted if you have any new idea about it. :-D
 
 ###Hire Me
