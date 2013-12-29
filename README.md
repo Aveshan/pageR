@@ -1,24 +1,24 @@
 #pageR
-----------------------
 
-pageR is a rapid website development script in PHP for people who dose't like to work on hardcore frameworks.
+
+pageR is a rapid website development script in PHP for people who dosn't like to work on hardcore frameworks.
 Our primary goal is to provide a structured format that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
 
 ##Some Info
-----------------------------
 
-[pageR](http://www.aveshan.com) - The rapid development PHP format
-[pageR GitHub](https://github.com/Aveshan/pageR) - Source
+
+1. [pageR](http://www.aveshan.com) - The rapid development PHP format
+2. [pageR GitHub](https://github.com/Aveshan/pageR) - Source
 
 ##Lincense Info
----------------------------------
+
 
 Auther: Chinmay G.
 License Under [MIT](http://opensource.org/licenses/MIT) - Open Source License.
 
 
 ##How To Use
----------------------------
+
 
 #### ON YOUR SERVER (we use Ubuntu 12.04 LTS):
 
@@ -47,5 +47,5 @@ Please commit only in *development* branch. The *master* branch will always cont
 Use it, And keep me posted if you have any new idea about it. :-D
 
 ###Hire Me
----------------------------
+
 Mail me, I am available for freelance work, Remote worldwide or locally in India.
