@@ -1,5 +1,5 @@
 #pageR
-====
+----------------------
 
 pageR is a rapid website development script in PHP for people who dose't like to work on hardcore frameworks.
 Our primary goal is to provide a structured format that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
@@ -35,12 +35,11 @@ Best way to do is cloning via git: `git clone https://github.com/Aveshan/pageR.g
 9. Add your functions in class file in folder master/Core.php Core class object already initiated.
 10. Edit Your URL and DB variables in master/conf.php file.
 11. Sometimes .htaccess file dose not arrive, use following and save it in .htaccess file and pageR folder.
-"RewriteEngine On
+RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
 RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
-"(without quotes).
 
 ## Contribute
 
