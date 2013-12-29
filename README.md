@@ -31,7 +31,7 @@ Best way to do is cloning via git: `git clone https://github.com/Aveshan/pageR.g
 5. Run the pageR.sql statements in the via PHPMyAdmin or do it via mysql command-line
 5. You must enable rewrite_mod.
 7. Add php file having name of the page link you have to add in 'links' folder. say "about.php".
-8. This is how links are added in html "<a href='<?php ech0 URL;?>/about'>About Us</a>".
+8. This is how links are added in html link href='<?php ech0 URL;?>/about'.
 9. Add your functions in class file in folder master/Core.php Core class object already initiated.
 10. Edit Your URL and DB variables in master/conf.php file.
 11. Sometimes .htaccess file dose not arrive, use following and save it in .htaccess file and pageR folder.
