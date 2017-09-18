@@ -10,7 +10,7 @@ Our primary goal is to provide a structured format that enables PHP users at all
 3. remove all files from the */var/www* (should only be Apache's index.html and your phpinfo()-containing .php right now) with `rm -r /var/www/*`,
 otherwise things will get messy and git won't download the repo into a non-empty folder
 4. copy the contents of the extracted pageR repository into /var/www ! In this tutorial we don't use a sub-folder,  so your index.php should go into /var/www !
-Best way to do is cloning via git: `git clone https://github.com/Aveshan/pageR.git /var/www`
+Best way to do is cloning via git: `git clone https://github.com/chinmaygit/pageR.git /var/www`
 5. Run the pageR.sql statements in the via PHPMyAdmin or do it via mysql command-line
 5. You must enable rewrite_mod.
 7. Add php file having name of the page link you have to add in 'links' folder. say "about.php".
